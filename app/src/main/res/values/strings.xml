@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">PlayAssist V1</string>
-    <string name="accessibility_service_description">تطبيق PlayAssist يحتاج إلى هذه الصلاحية لمحاكاة النقر التلقائي واللمس على الشاشة بالنيابة عنك لمساعدتك في المهام المتكررة.</string>
-</resources>
